@@ -7,11 +7,11 @@ Complete beginners. You don't need to know how to code. This is just for
 people who want to learn.
 
 ## Topics
-| Category | Topic | R script | PDF guide |
+| Category | Topic |
 |---|---|---|---|
-| Statistics | Bootstrapping | Coming soon | Coming soon |
-| Probability | Monte Carlo Simulation | Coming soon | Coming soon |
-| Machine Learning | Linear Regression | Coming soon | Coming soon |
+| Statistics | Bootstrapping |
+| Probability | Monte Carlo Simulation |
+| Machine Learning | Linear Regression |
 
 *More topics coming soon.*
 
