@@ -9,7 +9,7 @@ people who want to learn.
 ## Topics
 | Category | Topic | R script | PDF guide |
 |---|---|---|---|
-| Statistics | Hypothesis Testing | Coming soon | Coming soon |
+| Statistics | Bootstrapping | Coming soon | Coming soon |
 | Probability | Monte Carlo Simulation | Coming soon | Coming soon |
 | Machine Learning | Linear Regression | Coming soon | Coming soon |
 
