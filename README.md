@@ -8,7 +8,7 @@ people who want to learn.
 
 ## Topics
 | Category | Topic |
-|---|---|---|---|
+|---|---|
 | Statistics | Bootstrapping |
 | Probability | Monte Carlo Simulation |
 | Machine Learning | Linear Regression |
